@@ -5,6 +5,4 @@ export class Player extends BaseCharacter {
         super({x: 0, y: 0}, 0, 5, 0, 0, 'normal', [])
         this.equipment = equipment
     }
-
-    
 }
